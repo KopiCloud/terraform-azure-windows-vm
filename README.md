@@ -12,3 +12,5 @@ Versions included:
 * Windows Server 2012 R2
 * Windows Server 2012
 * Windows Server 2008 R2 SP1
+
+Blog --> https://medium.com/@gmusumeci/how-to-deploy-a-windows-server-vm-in-azure-using-terraform-775fcb338bd3
